@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to open-source projects. Here's a little bit about me:
 
 ## 🚀 About Me
-- **Name**: SKJ00
+- **Name**: Shahajun Khan Joy
 - **Interests**: Coding, Open Source, Learning new technologies
-- **Favorite Languages**: JavaScript, Python, Java
+- **Favorite Languages**: Python, C++, JavaScript
 - **Hobbies**: Reading, Gaming, Traveling
 
 ## 🛠️ Technologies & Tools
